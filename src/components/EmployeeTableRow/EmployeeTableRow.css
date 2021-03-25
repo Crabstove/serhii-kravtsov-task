@@ -1,0 +1,28 @@
+.employee {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: right;
+  background: #fbfdfd;
+  padding: 10px;
+}
+
+.employee-name {
+  width: 200px;
+}
+
+#employee-age {
+  width: 10px;
+}
+
+#employee-salary {
+  width: 40px;
+}
+
+.delete-btn {
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: 1px solid #d8d8d8;
+  outline: none;
+  background: white;
+  font-weight: 500;
+}
